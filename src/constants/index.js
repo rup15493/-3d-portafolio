@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    logo,
+    metaversus,
+    tshirt
   } from "../assets";
   
   export const navLinks = [
@@ -118,7 +121,7 @@ import {
     {
       title: "E-Comerse",
 
-      icon: "./src/assets/logo.png",
+      icon: logo,
       iconBg: "#383E56",
       date: "",
       points: [
@@ -133,7 +136,7 @@ import {
     },
     {
       title: "Blog",
-      icon: "./src/assets/logo.png",
+      icon: logo,
       iconBg: "#E6DEDD",
       date: "",
       points: [
@@ -145,7 +148,7 @@ import {
     },
     {
       title: "Landing Page",
-      icon: "./src/assets/logo.png",
+      icon: logo,
       iconBg: "#383E56",
       date: "",
       points: [
@@ -159,7 +162,7 @@ import {
     },
     {
       title: "ThreeJS",
-      icon: "./src/assets/logo.png",
+      icon: logo,
       iconBg: "#E6DEDD",
       date: "",
       points: [
@@ -218,7 +221,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://car-hub-chi.vercel.app/",
     },
     {
       name: "Custom Threads",
@@ -238,8 +241,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: "./src/assets/t-shirt2.png",
-      source_code_link: "https://github.com/",
+      image: tshirt,
+      source_code_link: "https://customthreads.vercel.app/",
     },
     {
       name: "Metaversus",
@@ -256,8 +259,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: "./src/assets/metaversus.png",
-      source_code_link: "https://github.com/",
+      image: metaversus,
+      source_code_link: "http://metaverse-landing-page-sigma.vercel.app",
     },
   ];
   

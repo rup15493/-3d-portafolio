@@ -24,6 +24,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import logo from "./logo.png"
+import metaversus from "./metaversus.png"
+import tshirt from "./tshirt.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -57,4 +60,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  logo,
+  metaversus,
+  tshirt
 };
