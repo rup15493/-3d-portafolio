@@ -119,7 +119,7 @@ import {
   
   const experiences = [
     {
-      title: "E-Comerse",
+      title: "E-Commerce",
 
       icon: logo,
       iconBg: "#383E56",
